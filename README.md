@@ -13,7 +13,7 @@
 
 <blockquote><h3>"The government should be afraid of the people, the people shouldn't be afraid of the government." (Edward Snowden)</h3></blockquote>
 
-<p align="center"><img src="" title=""/></p>
+<p align="center"><img src=".data/Massacre_in_Korea_(1951)_-_Pablo_Picasso.jpg" title="Massacre in Korea (1951) - Pablo Picasso" width="600" height="340"/></p>
 
 <hr>
 
