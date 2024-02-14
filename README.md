@@ -33,6 +33,8 @@
 <li><a href="https://gatgpt.defcad.com/">gatgpt defcad</a></li>
 <li><a href="https://www.pcbway.com/rapid-prototyping/manufacture">pcbway</a></li>
 
+<p align="center"><img src=".data/Auto_Defense.png" title="DefCad" width="600" height="340"/></p>
+
 </ul>
 </li>
 <li><a href="https://defdist.org">defdist</a></li>
