@@ -15,7 +15,22 @@
 
 <p align="center"><img src=".data/Massacre_in_Korea_(1951)_-_Pablo_Picasso.jpg" title="Massacre in Korea (1951) - Pablo Picasso" width="600" height="340"/></p>
 
+
 <hr>
+
+<a href="https://www.youtube.com/watch?v=BTojV_NqWCA">
+  <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DBTojV_NqWCA" alt="I Made an Untraceable AR-15 'Ghost Gun' In My Office | WIRED" title="I Made an Untraceable AR-15 'Ghost Gun' In My Office | WIRED"/>
+</a>
+<a href="https://www.youtube.com/watch?v=C4dBuPJ9p7A">
+  <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DC4dBuPJ9p7A" alt="I 3D-Printed a Glock to See How Far Homemade Guns Have Come" title="I 3D-Printed a Glock to See How Far Homemade Guns Have Come"/>
+</a><br>
+
+<a href="https://www.youtube.com/watch?v=dB25H7pD2jg">
+  <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdB25H7pD2jg" alt="3D Printed Guns Are Easy To Make And Impossible To Stop (HBO)" title="3D Printed Guns Are Easy To Make And Impossible To Stop (HBO)"/>
+</a>
+<a href="https://www.youtube.com/watch?v=9SwnHL9MvmI">
+  <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D9SwnHL9MvmI" alt="Teenage Soldiers and Homemade Grenades: Ghosts of Aleppo" title="Teenage Soldiers and Homemade Grenades: Ghosts of Aleppo"/>
+</a>
 
 <!-- ################################################# -->
 
@@ -28,13 +43,13 @@
 </ul>
 
 <h3>3D Printing / CNC Machining</h3>
+
+<p align="center"><img src=".data/Auto_Defense.png" title="DefCad" width="600" height="340"/></p>
+
 <ul>
 <li><a href="https://defcad.com/">defcad</a><ul>
 <li><a href="https://gatgpt.defcad.com/">gatgpt defcad</a></li>
 <li><a href="https://www.pcbway.com/rapid-prototyping/manufacture">pcbway</a></li>
-
-<p align="center"><img src=".data/Auto_Defense.png" title="DefCad" width="600" height="340"/></p>
-
 </ul>
 </li>
 <li><a href="https://defdist.org">defdist</a></li>
