@@ -19,58 +19,7 @@
 <!-- ################################################# -->
 <hr>
 
-PUBLIC INTERNATIONAL LAW
 
-<table>
-<thead align="center">
-  <tr>
-    <th colspan="4">PUBLIC INTERNATIONAL LAW</th>
-  </tr>
-</thead>
-<tbody align="center">
-  <tr>
-    <td colspan="2">LAWS OF WAR</td>
-    <td colspan="2">LAWS OF PEACE</td>
-  </tr>
-  <tr>
-    <td>"Jus ad bellum"</td>
-    <td>"Jus in Bello"</td>
-    <td>Occupation and "Jus Post Bellum"</td>
-    <td>Human Rights Law</td>
-  </tr>
-  <tr>
-    <td>The international rules pertaining to which extent the use of military force against another state is allowed.</td>
-    <td>The international rules pertaining to how armed conflict must be conducted.</td>
-    <td>The Justice at the end of the war, helps move from conflict to peace.Reasonable peace treaties, civilian population should be protected,<br>leaders who broke Hague/Geneva laws must face prosecution, cities must be reconstructed.</td>
-    <td>International Bill on Human Rights. Treaties and Conventions. Covenats and Declarations.</td>
-  </tr>
-</tbody>
-</table>
-
-<h3>Charter of the United Nations</h3>
-
-https://legal.un.org/repertory/art1.shtml<br>
-https://ihl-databases.icrc.org/en/ihl-treaties/api-1977?activeTab=undefined<br>
-https://casebook.icrc.org/a_to_z/glossary/direct-participation-hostilities<br>
-
-<h4>IUS AD BELLO</h4>
-
-<p>Chapter VII — Action with respect to Threats to the Peace, Breaches of the Peace, and Acts of Aggression - Article 51</p>
-
-<blockquote>“Nothing in the present Charter shall impair the inherent right of individual or collective self-defence if an armed attack occurs against a Member of the United Nations, until the Security Council has taken measures necessary to maintain international peace and security. Measures taken by Members in the exercise of this right of self-defence shall be immediately reported to the Security Council and shall not in any way affect the authority and responsibility of the Security Council under the present Charter to take at any time such action as it deems necessary in order to maintain or restore international peace and security.”</blockquote>
-
-<h4>IUS IN BELLO</h4>
-
-<p>Protocol Additional to the Geneva Conventions of 12 August 1949, and relating to the Protection of Victims of International Armed Conflicts (Protocol I)</p>
-
-<blockquote>“Article 3 of the Geneva Conventions and Article 44 Additional Protocol I <br>
-In order to promote the protection of the civilian population from the effects of hostilities, combatants are obliged to distinguish themselves from the civilian population while they are engaged in an attack or in a military operation preparatory to an attack. Recognizing, however, that there are situations in armed conflicts where, owing to the nature of the hostilities an armed combatant cannot so distinguish himself, he shall retain his status as a combatant, provided that, in such situations, he carries his arms openly:
-
-(a) During each military engagement, and
-
-(b) During such time as he is visible to the adversary while he is engaged in a military deployment preceding the launching of an attack in which he is to participate.
-
-(c) Acts which comply with the requirements of this paragraph shall not be considered as perfidious within the meaning of Article 37, paragraph 1."</blockquote>
 
 <!-- ################################################# -->
 <hr>
