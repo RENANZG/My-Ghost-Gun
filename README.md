@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html lang='en'>
+<html lang="en">
 
 <head>
 
-  <meta charset='UTF-8'>
+   <meta charset="UTF-8">
 
-<body>
+</head>
 
 <div id="header">
 
@@ -87,6 +87,7 @@ https://www.reddit.com/r/3DGunnit<br>
 https://www.reddit.com/r/ghostguns<br>
 https://www.reddit.com/r/GhostGunsNews<br>
 https://truthout.org/articles/socialists-need-an-independent-approach-to-gun-violence<br>
+
 <!--################################### -->
 
 <p align="right"> <a href="https://github.com/RENANZG/My-Ghost-Gun?tab=readme-ov-file#">Back to Top ⬆</a> </p>
