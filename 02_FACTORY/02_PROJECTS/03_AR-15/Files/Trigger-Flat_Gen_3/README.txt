@@ -1,0 +1,1 @@
+print safety bar flat side down, trigger shoe top down
