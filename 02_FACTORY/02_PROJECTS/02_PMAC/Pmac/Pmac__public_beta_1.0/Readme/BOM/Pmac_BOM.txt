@@ -1,0 +1,8 @@
+To complete the PY2A Pmac 9mm build you will need
+-Pmac reinforcements
+-AR-15 FCG(fire control group), safety detent/spring, grip screw and mag catch
+-Steel Rod 5/16x1 15/16", 1/4x7/8" and 2x12mm
+-M4x16mm screw(x4)
+-M4x18mm screw(x1)
+-M4 nuts(x5)
+-M3x45mm screw(x2)
